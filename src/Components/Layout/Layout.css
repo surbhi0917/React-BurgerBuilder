@@ -1,3 +1,6 @@
 .Content {
-    margin-top: 16px;
+     margin-top: 72px;  /*initially this was 16px,
+                          then after we added Navigation we changed it to 72px
+                          to adjust the Navigation as it was overlapping with burger.
+                          so 16+56 =72. 16 from original margin amd 56 s the navigation margin.  */
 }
